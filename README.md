@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Tiago Giannotti<sub style="font-size: 15px; font-style: italic"></sub><br> </b>
 
-I am a SAP ABAP Developer with one year of experience in designing, developing, and implementing custom SAP solutions. In addition to my ABAP expertise, I also possess skills in C and SQL programming, gained through various university projects that enabled me to tackle a variety of technical challenges. Currently, I am pursuing a degree in Computer Engineering at the National University of La Matanza and complemented my education with advanced certifications in ABAP.
+I am a SAP ABAP Developer with one year of experience in designing, developing, and implementing custom SAP solutions. In addition to my ABAP expertise, I also possess skills in C and SQL programming, gained through various university projects that enabled me to tackle a variety of technical challenges. Currently, I am pursuing a degree in Computer Engineering at the National University of La Matanza and complemented my education with advanced SAP certifications.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies and Tools</b>
 - Programming Languages: ABAP, C, SQL
 - Tools: SAP GUI, SQL Management studio, CodeBlocks, Visual Studio, SDL (Simple DirectMedia Layer)
